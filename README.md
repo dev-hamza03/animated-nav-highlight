@@ -16,7 +16,6 @@ https://github.com/dev-hamza03/animated-nav-highlight
 • Perfect for navbars, menus, dashboards, portfolios  
 
 ## 🖼️ Screenshot
-(Upload your screenshot to assets/images/screenshot.png)
 ![Screenshot](./assets/images/screenshot.png)
 
 ## 🛠 Technologies Used
